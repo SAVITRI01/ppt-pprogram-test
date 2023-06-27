@@ -1,7 +1,7 @@
-/**
+
  * Move zeroes to the end of the array in-place.
  * @param {number[]} nums - The input array.
- */
+
 function moveZeroes(nums) {
   let nonZeroIndex = 0;
 
